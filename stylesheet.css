@@ -15,6 +15,7 @@ body {
   align-content: flex-start;
 }
 
+
 /* V1 */
 
 .v1 {
@@ -44,7 +45,7 @@ body {
   margin: 0;
   padding: 0;
   font-size: 5em;
-  color: #c8cccb;
+  color: #595959;
   letter-spacing: 0.05em;
 }
 
@@ -199,6 +200,6 @@ p {
   margin: 0;
   padding: 0;
   font-size: 5em;
-  color: #c8cccb;
+  color: #595959;
   letter-spacing: 0.05em;
 }
