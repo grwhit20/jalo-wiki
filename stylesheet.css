@@ -1,0 +1,202 @@
+
+body {
+ background-image: url(https://i.imgur.com/TgFXRyS.jpg);
+ background-color: black;
+ background-size: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+}
+
+/* V1 */
+
+.v1 {
+  background-color: rgba(211, 211, 211, 0.8);
+  margin: 100px;
+  height: 100%;
+  width: 24.9em;
+  border: ;
+  padding: 30px 25px;
+  position: relative;
+}
+
+.v1text {
+  text-transform: ;
+  font-family: "Roboto";
+  font-weight: 500;
+  line-height: 1.2em;
+  font-size: 1em;
+  color: #1c2124;
+}
+
+.identifier {
+  top: -50px;
+  right: -35px;
+  font-family: "Patua One", cursive;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  font-size: 5em;
+  color: #c8cccb;
+  letter-spacing: 0.05em;
+}
+
+.green {
+  background-color: rgba(51, 135, 85, .8);
+  padding-right: .5em;
+  padding-left: .5em;
+}
+
+.magenta {
+  background-color: #C2709E;
+  padding-right: .5em;
+  padding-left: .5em;
+}
+
+.yellow {
+  background-color: #F9E292;
+  padding-right: .5em;
+  padding-left: .5em;
+}
+
+.orange {
+  background-color: #E96a19;
+  padding-right: .5em;
+  padding-left: .5em;
+}
+
+.off-white {
+  background-color: #c8cccb;
+  padding-right: .5em;
+  padding-left: .5em;
+}
+p {
+  margin: 0;
+}
+
+/* HOOK */
+
+.hook {
+  background-color: rgba(211, 211, 211, 0.8);
+  margin: 100px;
+  height: 100%;
+  width: 23em;
+  border: 0em;
+  padding: 18px 18px;
+
+}
+
+.hook2 {
+  background-color: rgba(211, 211, 211, 0.8);
+  margin: 100px;
+  height: 100%;
+  width: 23em;
+  border: 0em;
+  padding: 18px 18px;
+
+}
+
+.ahha {
+  font-size: 7em;
+  line-height: 1.2em;
+  text-align: center;
+  font-family: "Patua One";
+  letter-spacing: .18em;
+  color: #c8cccb;
+  opacity: .8;
+}
+
+.ahha2 {
+  font-size: 7em;
+  line-height: 1.2em;
+  text-align: center;
+  font-family: "Patua One";
+  letter-spacing: .18em;
+  color: #c8cccb;
+  opacity: .8;
+}
+
+.ahha:hover {
+  color: #e96a19;
+  opacity: .8;
+  text-shadow: -10px 0px #c2709e;
+  transition: 1000ms;
+}
+
+.ahha2:hover {
+  color: #c2709e;
+  opacity: .8;
+  text-shadow: 10px 0px #e96a19;
+  transition: 1000ms;
+}
+
+.hooktext {
+  margin: 0px;
+  font-family: "Roboto";
+  line-height: 1.6em;
+  font-size: 1em;
+  color: #1c2124;
+  text-align: center;
+  font-weight: 500;
+}
+
+.hkgreen {
+  color: #c8cccb;
+  font-weight: 300;
+  font-size: 1.7em;
+  letter-spacing: .1em;
+  background-color: rgba(51, 135, 85, .8);
+  padding: .6em;
+  line-height: 3em;
+  text-transform: uppercase;
+}
+
+.hkgreen:hover {
+  background-color: white;
+  border-radius: 20px;
+  transition: 1000ms;
+  color: #1c2124;
+}
+
+.hkgreen:hover {
+  opacity: .2;
+  transition: 100 ms;
+}
+
+/* V2 */
+
+.v2 {
+  background-color: rgba(211, 211, 211, 0.8);
+  margin: 100px;
+  height: 100%;
+  width: 23em;
+  border: ;
+  padding: 30px 25px;
+  position: relative;
+}
+
+.v2text {
+  text-transform: ;
+  font-family: "Roboto";
+  font-weight: 500;
+  line-height: 1.2em;
+  font-size: 1em;
+  color: #1c2124;
+}
+
+.v2identifier {
+  top: -50px;
+  right: -50px;
+  font-family: "Patua One", cursive;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  font-size: 5em;
+  color: #c8cccb;
+  letter-spacing: 0.05em;
+}
